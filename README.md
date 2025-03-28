@@ -6,5 +6,5 @@ More about me: <br />
   
 How to reach me:
 _[LinkedIn](https://www.linkedin.com/in/malena-lodi-07a0aa251/)_
-, or email me at malenalodi3@gmail.com .
+, or email me at _malenalodi3@gmail.com_ .
 
