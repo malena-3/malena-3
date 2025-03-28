@@ -1,7 +1,7 @@
 ### Hello! I’m Malena, and these are a few highlights of my work.
 More about me: <br />
   🙋🏻‍♀️ My pronouns are she/her. <br />
-  💻 I'm a Computer Science major focused on transferring to a four-year and gaining experience. <br />
+  💻 I'm a Computer Science major focused on transferring to a four-year university and gaining experience. <br />
   💚 I love combining my creative side with my programming skills.
   
 How to reach me:
