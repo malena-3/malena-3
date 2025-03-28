@@ -1,8 +1,10 @@
-Hello 🙋🏻‍♀️ My name is Malena, and these are some of my projects.
-- Pronouns: she/her
-- Major: Computer Science
+### Hello! I’m Malena, and these are a few highlights of my work.
+More about me: <br />
+  🙋🏻‍♀️ My pronouns are she/her. <br />
+  💻 I'm a Computer Science major focused on transferring to a four-year and gaining experience. <br />
+  💚 I love combining my creative side with my programming skills.
   
 How to reach me:
-- LinkedIn: https://www.linkedin.com/in/malena-lodi-07a0aa251/
-- Email: malenalodi3@gmail.com
+_[LinkedIn](https://www.linkedin.com/in/malena-lodi-07a0aa251/)_
+, or email me at malenalodi3@gmail.com .
 
